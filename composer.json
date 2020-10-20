@@ -1,6 +1,6 @@
 {
   "type": "library",
-  "name": "yunqico/yunqico-library",
+  "name": "yunqico/library",
   "license": "MIT",
   "homepage": "https://www.yunenv.com",
   "description": "ThinkPHP v6.0 Development Library",
