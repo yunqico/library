@@ -18,7 +18,7 @@ ThinkLibrary 6.0 是针对 ThinkPHP 6.0 版本封装的一套工具类库，方�
 
 ## 使用说明
 * ThinkLibrary 需要 Composer 支持
-* 安装命令 ` composer require yunqico/yunqico-library 6.0.x-dev`
+* 安装命令 ` composer require yunqico/library 6.0.x-dev`
 * 案例代码：
 控制器需要继承 `think\admin\Controller`，然后`$this`就可能使用全部功能
 ```php
